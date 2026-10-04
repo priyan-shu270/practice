@@ -1,0 +1,23 @@
+body{
+    border: 2px solid black;
+    height: 350px;
+    width: 100px;
+}
+#one{
+    height: 100px;
+    width: 100px;
+background-color: red;
+border-radius: 50%;
+}
+#two{
+    height: 100px;
+    width: 100px;
+background-color: rgb(13, 129, 237);
+border-radius: 50%;
+}
+#three{
+    height: 100px;
+    width: 100px;
+background-color: rgb(23, 219, 45);
+border-radius: 50%;
+}
